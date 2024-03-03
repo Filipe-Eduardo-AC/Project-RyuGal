@@ -503,7 +503,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprigatito_0: 4280562027879099148
+      sprigatito_1: 1337505201938296455
+      sprigatito_10: -8185843424364337333
+      sprigatito_11: 773511034648863757
+      sprigatito_12: 5889945128874222574
+      sprigatito_13: -4413308061507266007
+      sprigatito_14: 4232803079272109843
+      sprigatito_15: -513560160693229786
+      sprigatito_2: -7338343659053986519
+      sprigatito_3: 6915311583667186846
+      sprigatito_4: 2639796686213500779
+      sprigatito_5: -5924802585281448854
+      sprigatito_6: -8099084077560332894
+      sprigatito_7: 8687314650752051294
+      sprigatito_8: -6208274654711988722
+      sprigatito_9: -9088478707633602705
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

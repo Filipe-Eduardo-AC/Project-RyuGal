@@ -503,7 +503,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      anya_0: 2308753870997184281
+      anya_1: 190648394861361056
+      anya_10: 3355920977432657697
+      anya_11: -2836546287965351211
+      anya_12: -5779143703292970042
+      anya_13: 2247767829006801562
+      anya_14: 5537031709916594040
+      anya_15: -8902196493813644189
+      anya_2: 7098197635580429756
+      anya_3: -5783862112127220265
+      anya_4: 4780445357548921623
+      anya_5: 5570057183718922490
+      anya_6: -2301480069201963986
+      anya_7: 1187596196002211314
+      anya_8: -7938963427006876104
+      anya_9: 2577187226248754411
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
