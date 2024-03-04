@@ -1,4 +1,4 @@
 # Project-RyuGal
-Game for Acerola GameJam 0 | Theme: Aberration
+A repository for a future project in development
 
-https://itch.io/jam/acerola-jam-0
+(I don't have enough knowledge to do it at the moment)
